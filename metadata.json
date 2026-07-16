@@ -1,0 +1,6 @@
+{
+  "name": "QuickMenu SaaS Platform",
+  "description": "A premium multi-restaurant QR Code digital menu, live order tracking, and kitchen management SaaS platform supporting Persian (RTL) and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
